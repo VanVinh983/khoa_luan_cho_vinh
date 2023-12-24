@@ -1,0 +1,31 @@
+[
+
+  {
+    "tenNhanVien": "Đoàn Văn Vĩnh",
+    "soDienThoai": "0123456783",
+    "taiKhoan": {
+      "tenTaiKhoan": "vanvinh"
+    }
+  },
+  {
+    "tenNhanVien": "Nguyễn Thị Mỹ Hạnh",
+    "soDienThoai": "0323456789",
+    "taiKhoan": {
+      "tenTaiKhoan": "myhanh"
+    }
+  },
+  {
+    "tenNhanVien": "Trần Thị Thùy DUng",
+    "soDienThoai": "0123456289",
+    "taiKhoan": {
+      "tenTaiKhoan": "thuydung"
+    }
+  },
+  {
+    "tenNhanVien": "Nguyễn Thanh Liêm",
+    "soDienThoai": "012345s789",
+    "taiKhoan": {
+      "tenTaiKhoan": "thanhliem"
+    }
+  }
+]

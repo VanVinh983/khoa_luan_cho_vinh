@@ -1,0 +1,44 @@
+[
+  {
+    "thucPham": {
+      "maThucPham": 1
+    },
+    "soLuong": 10
+  },
+  {
+    "thucPham": {
+      "maThucPham": 2
+    },
+    "soLuong": 10
+  },
+  {
+    "thucPham": {
+      "maThucPham": 3
+    },
+    "soLuong": 10
+  },
+  {
+    "thucPham": {
+      "maThucPham": 4
+    },
+    "soLuong": 10
+  },
+  {
+    "thucPham": {
+      "maThucPham": 5
+    },
+    "soLuong": 10
+  },
+  {
+    "thucPham": {
+      "maThucPham": 6
+    },
+    "soLuong": 10
+  },
+  {
+    "thucPham": {
+      "maThucPham": 7
+    },
+    "soLuong": 10
+  }
+]

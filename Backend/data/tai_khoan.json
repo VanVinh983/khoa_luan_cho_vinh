@@ -1,0 +1,22 @@
+[
+  {
+    "tenTaiKhoan": "vanvinh",
+    "matKhau": "matKhau1",
+    "quyen": "PHUCVU"
+  },
+  {
+    "tenTaiKhoan": "myhanh",
+    "matKhau": "matKhau1",
+    "quyen": "CHEBIEN"
+  },
+  {
+    "tenTaiKhoan": "thuydung",
+    "matKhau": "matKhau1",
+    "quyen": "THUNGAN"
+  },
+  {
+    "tenTaiKhoan": "thanhliem",
+    "matKhau": "matKhau1",
+    "quyen": "QUANLY"
+  }
+]
